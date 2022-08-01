@@ -112,7 +112,7 @@ print(first_name + " " + mid_name + " " +  last_name + " " + str(age))
  # select all lines that you want to comment and then press control plus /
 
 # DOR (Definition of Ready)
- It is a set of agreements that tells you when something is ready to begin. More correctly, “if something is good to begin”. E.g., when a user story is ready to be taken into a sprint, or when all the conditions are right for a team to begin a sprint.
-- 
+- It is a set of agreements that tells you when something is ready to begin. More correctly, “if something is good to begin”. E.g., when a user story is ready to be taken into a sprint, or when all the conditions are right for a team to begin a sprint.
+
 # DOD (Definition of Done)
 -  The Definition of Done is an agreed-upon set of items that must be completed before a project or user story can be considered complete
