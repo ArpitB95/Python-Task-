@@ -2,20 +2,21 @@
 ## 2 types operators
 
 ## Arithmetic operators
-#- '+ - * /'
-#- '+' adds two operands (var) together
-#- '-' substract
-#- '*' multiply
-#- '/' divide
+
+- '+ - * /'
+- '+' adds two operands (var) together
+- '-' substract
+- '*' multiply
+- '/' divide
 
 
 ## Comparison operators
-#- '>' greater than
-#- '<' less than
-#- '==' equal to
-#- '!=' not equal to
-#- '>=' greater and equal
-#- '<=' less and equal
+- '>' greater than
+- '<' less than
+- '==' equal to
+- '!=' not equal to
+- '>=' greater and equal
+- '<=' less and equal
 
 ````
 a= 4
