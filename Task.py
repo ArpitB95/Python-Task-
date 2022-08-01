@@ -1,6 +1,6 @@
 # User data - Takes data and will give output
 
-
+```
 print('Hi user')
 print('Please enter your First name')
 First_Name = input()
@@ -27,3 +27,4 @@ Enroll_No= int(input())
 
 
 print( First_Name + " " + Last_Name + " " + str(Age) + " " + Adress + " " + str(Salary) + " " + Course + " " + str(Enroll_No))
+```
