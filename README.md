@@ -62,10 +62,17 @@ print(a+b) #6
 -print(greeting[-5]) # output o
 -print(greeting[:5]) # output hello
 
-##print only world in a print statement using slicing
-- print 4th letter from left to right
-- print 7 letter from right to left
-- print 6 letter from left to right
+### print only world in a print statement using slicing
+ print (greetings[6:11])
+ 
+### print 4th letter from left to right
+    print (greetings[3])
+  
+### print 7 letter from right to left 
+    print(greetings[:-7:-1])
+  
+### print 6 letter from left to right
+    print(greeting[:5])
 
 
 - greetings = "Hello World!"
